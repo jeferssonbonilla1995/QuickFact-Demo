@@ -72,10 +72,6 @@ TypeScript JWT Ecuador
 
 ---
 
-## 👨‍💻 Sobre el Autor
-
-**Jefersson Bonilla** - Ingeniero en Sistemas
-
 QuickFact nació de la necesidad de tener un sistema de facturación electrónica **multi-nicho** que se adapte a diferentes tipos de negocio (comercio, restaurantes, etc.) desde una misma plataforma.
 
 **Características clave:**
