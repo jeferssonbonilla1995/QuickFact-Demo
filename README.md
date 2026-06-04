@@ -32,8 +32,6 @@
 ---
 
 ## 🏗️ Arquitectura del Sistema
-
-## 🏗️ Arquitectura del Sistema
 ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
 │ 📱 Frontend │────▶│ 🔧 Backend │────▶│ 🗄️ Base de │
 │ (Next.js 14) │ │ (ASP.NET Core) │ │ Datos (SQL) │
